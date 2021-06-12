@@ -66,16 +66,21 @@ button{
 }
 .head1{
   top:0px;
-  height:50px;
-  background-color: #fff ;
+  background-color: rgb(129, 127, 127) ;
+  position: absolute;
+  width:100%;
+  height: 7%;
 }
 h1{
+  bottom: 8px;
+  position: relative;
   color:black;
   font-family: "Raleway", sans-serif;
   text-transform: capitalize ;
-  background-color:   rgb(129, 127, 127) ;
   text-align: center;
-  bottom: 90px;
+  font-size: 25px;
+  letter-spacing:2px ;
+  font-weight: 500;
 } 
 @media(max-width: 768px){
   .card{
