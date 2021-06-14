@@ -1,6 +1,5 @@
 {
   "name": "netflix",
-  "homepage": "https://github.com/PragatiGahukar/NetFlix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
